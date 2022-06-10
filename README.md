@@ -18,7 +18,7 @@ Além disto é bom ter um editor para trabalhar com o código como [Eclipse](htt
 # clonar repositório
 git clone https://github.com/MateusDantas2/shoppinglist.git
 
-# Alterar no código o LIST_FILE passando o caminho que você quer gerar. Ex: lista.txt
+# Alterar no código o LIST_FILE passando o caminho que você quer gerar. Ex: "lista.txt"
 
 # Executar a Aplicação.
 
