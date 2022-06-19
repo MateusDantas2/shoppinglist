@@ -6,6 +6,7 @@ O Shopping List é um projeto Java para adição de itens utilizando a API I/O (
 
 ### 🛠 Tecnologias utilizadas:
 - Java
+- API de Input e Output.
 
 ### 👉 Pré-requisitos:
 
